@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+  padding: 0px;
+   box-sizing: border-box; 
+}
+.class1{
+    color: white;
+    text-align: center;
+    padding: 250px 300px 50px 300px;
+    font-size: 50px;
+    font-family: sans-serif;
+    
+
+}
+
+main{
+    margin: 0px;
+  padding: 0px 0px 100px 0px;
+   box-sizing: border-box; 
+   top: 0px;
+   background-image: url(https://i0.wp.com/assemblerinstitute.com/wp-content/uploads/2022/02/lenguaje-2022-1.jpg?fit=950%2C600&ssl=1);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+body{
+    background-color: white;
+  margin: 0px;
+}
+
+#subtitle{
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+    
+}
+
+
+#imagen1{
+    text-align: center;
+   background-color: black;
+    
+}
+
+#headingabajo{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    padding: 30px 30px 30px 30px;
+}
+#fototierra{
+    height: 300px;
+    width: 300px;
+    padding: 40px 20px 20px 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#fotoprograma{
+    height: 300px;
+    width: 300px;
+    padding: 40px 20px 20px 20px;
+}
+#divimagenes{
+    text-align: center;
+    align-items: center;
+    display: flex;
+justify-content: center;
+background-color: black;
+}
+#fotoprograma2{
+    height: 300px;
+    width: 300px;
+    padding: 40px 20px 20px 20px;
+}
+
+#divisiontext{
+    text-align: center;
+    align-items: center;
+    display: flex;
+justify-content: center;
+background-color: black;
+}
+.textbelow{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+#aftertext{
+background-image: url(https://th.bing.com/th/id/R.b9b57974f2e222a021092c8cafce1347?rik=Esut7zS5r74ITg&riu=http%3a%2f%2fprogramacion.net%2ffiles%2farticle%2f20151030121049_buen-programador.jpg&ehk=d6WFxhSYH7QNjh6eaM5f6jpZF7HazzXlQ1F9H2D0krU%3d&risl=&pid=ImgRaw&r=0); 
+background-attachment: fixed;
+}
+
+#heading4{
+text-align: center;
+padding-top: 500px;
+font-family: sans-serif;
+font-size: 100px;
+color: white;
+}
+#sub{
+    text-align: center;
+padding-bottom: 500px;
+font-family: sans-serif;
+font-size: 40px;
+color: white;
+}
+    #divfinal{
+        background-color: white;
+
+    }
+    #final{
+        text-align: center;
+
+font-family: sans-serif;
+font-size: 100px;
+color: black;
+padding-top: 200px;
+padding-bottom: 70px;
+    }
+    #caja{
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        padding-bottom: 40px;
+        height: 30px;
+        
+    }
+#apply{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+#subfinal{
+    text-align: center;
+
+font-family: sans-serif;
+font-size: 30px;
+color: black;
+padding-top: 20px;
+padding-bottom: 100px;
+}
